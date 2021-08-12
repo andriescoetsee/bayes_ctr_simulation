@@ -1,6 +1,6 @@
 # Bayes posterior analysis to simulate digital marketing click rate
 
-See Juputer notebook for details. 
+[See Juputer notebook for details](https://github.com/andriescoetsee/bayes_ctr_simulation/Digital Marketing Simulation.ipynb)
 
 ## Analysis Goal
 
