@@ -21,7 +21,7 @@ We want to simulate 2 scenarios:
 
 Then we do posterior distribution analysis between the base and the two scenarios.
 
-#### Conclusion
+### Conclusion
 
 We want to recommend whether it is worth while for the client to increase spending on the current running campaign. 
 
